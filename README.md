@@ -1,1 +1,1 @@
-# Kaggle-Elo-Merchant-Category-Recommendation
+# Kaggle Competitions
